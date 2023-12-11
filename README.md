@@ -4,14 +4,14 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <h1 align="center">Hi 👋, I'm Mateo</h1>
+  <h1 align="center">Hola 👋, Soy Mateo</h1>
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">💫About me</h2></summary>
+    <summary><h2 style="display: inline-block">💫Sobre mí</h2></summary>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que utilizo👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--Tecnologias que domino-->

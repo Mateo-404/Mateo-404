@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**Mateo-404/Mateo-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <h1 align="center">Hi 👋, I'm Mateo</h1>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💫About me</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+🚀 Actualmente las principales tecnologias que utilizo son **Springboot, Java, MySQL, JS, HTML y CSS**
+
+🎓 Estoy aprendiendo **nuevas habilidades y conceptos en la tecnicatura superior en programación en la UTN FRRA**
+
+📝 Escribo regularmente mis experiencias y aprendizajes en mi [Linkedin](https://ar.linkedin.com/in/mateo-gariboglio?trk=people_directory)
+
+🏠 También formo parte de la comunidad de desarrolladores de Argentina
+
+💼 Dispuesto a escuchar ofertas laborales
+<!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--Tecnologias que domino-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,c,discord,docker,github,html,css,js,md,mysql,postman,vscode&perline=14" />
+  </a>
+</p>
+
+
+
+Last Edited on: 11/12/2023

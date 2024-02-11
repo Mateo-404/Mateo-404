@@ -19,11 +19,11 @@
 <!--Intro start-->
 🚀 Actualmente las principales tecnologias que utilizo son **Springboot, Java, MySQL, JS, HTML y CSS**
 
-🎓 Estoy aprendiendo **nuevas habilidades y conceptos en la tecnicatura superior en programación en la UTN FRRA**
+🎓 Estoy aprendiendo **nuevas habilidades y conceptos en la Tecnicatura Superior en Programación dictada en UTN FRRA**
 
 📝 Escribo regularmente mis experiencias y aprendizajes en mi [Linkedin](https://ar.linkedin.com/in/mateo-gariboglio?trk=people_directory)
 
-🏠 También formo parte de la comunidad de desarrolladores de Argentina
+🏠 También formo parte de la Comunidad de Desarrolladores de Argentina
 
 💼 Dispuesto a escuchar ofertas laborales
 <!--Intro end-->
@@ -43,4 +43,4 @@
 
 
 
-Last Edited on: 30/12/2023
+Last Edited on: 11/04/2024

@@ -37,7 +37,7 @@
 <!--Tecnologias que domino-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring-dark,java,git,c,discord,docker,github,html,css,js,md,mysql,postman,vscode,aws-dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,java,git,c,discord,docker,github,html,css,js,md,mysql,postman,vscode,aws&perline=14" />
   </a>
 </p>
 

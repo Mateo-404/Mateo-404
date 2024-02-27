@@ -37,10 +37,10 @@
 <!--Tecnologias que domino-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=springboot,java,git,c,discord,docker,github,html,css,js,md,mysql,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring-dark,java,git,c,discord,docker,github,html,css,js,md,mysql,postman,vscode,aws-dark&perline=14" />
   </a>
 </p>
 
 
 
-Last Edited on: 11/04/2024
+Last Edited on: 27/02/2024

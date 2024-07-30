@@ -35,19 +35,19 @@
   </ul>
 </div>
 <!--Tecnologias que domino-->
-<h3> BackEnd </h3>
+<h3> BackEnd 🖥️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,java,cs,c,mysql&perline=14" />
   </a>
 </p>
-<h3> FrontEnd </h3>
+<h3> FrontEnd 🎨</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
   </a>
 </p>
-<h3> Herramientas </h3>
+<h3> Herramientas 🛠️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,dotnet,discord,docker,github,postman,vscode,aws,md&perline=14" />

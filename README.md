@@ -35,12 +35,25 @@
   </ul>
 </div>
 <!--Tecnologias que domino-->
+<h3> BackEnd </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,git,cs,dotnet,c,discord,docker,github,html,css,js,md,mysql,postman,vscode,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,java,cs,c,mysql&perline=14" />
+  </a>
+</p>
+<h3> FrontEnd </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
+  </a>
+</p>
+<h3> Herramientas </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,dotnet,discord,docker,github,postman,vscode,aws,md&perline=14" />
   </a>
 </p>
 
 
 
-Ultima edición en: 19/07/2024
+<p align="center">Ultima actualización: 30/07/2024</p>

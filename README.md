@@ -5,7 +5,7 @@
 ---
 ## 📌 Sobre mí
 
-Soy estudiante de la Tecnicatura Superior en Programación en la [UTN FRRa](http://ww8.frra.utn.edu.ar/sitio/). Me apasiona la tecnología y disfruto enfrentar desafíos, buscando siempre soluciones simples y efectivas. Trabajé en diversos proyectos, desde sitios web hasta sistemas backend robustos, y siempre estoy dispuesto a aprender algo nuevo y a seguir creciendo profesionalmente. Soy una persona creativa, comprometida y con muchas ganas de seguir aprendiendo y mejorando en mi campo. ¡Vamos para adelante! 💻🔥
+Soy estudiante de la Tecnicatura Universitaria en Programación en la [UTN FRRa](http://ww8.frra.utn.edu.ar/sitio/). Me apasiona la tecnología y disfruto enfrentar desafíos, buscando siempre soluciones simples y efectivas. Trabajé en diversos proyectos, desde sitios web hasta sistemas backend robustos, y siempre estoy dispuesto a aprender algo nuevo y a seguir creciendo profesionalmente. Soy una persona creativa, comprometida y con muchas ganas de seguir aprendiendo y mejorando en mi campo. ¡Vamos para adelante! 💻🔥
 
 ---
 ## 🚀 Tech Stack

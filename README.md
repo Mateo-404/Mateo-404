@@ -1,6 +1,6 @@
 # ¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻
 
-![Banner animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Banner animado](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5aXVzdWpzYXp4cmY3azQzZXh6bjBlc2RoOW5xa2Q4OHdnaGxhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif)
 
 ---
 

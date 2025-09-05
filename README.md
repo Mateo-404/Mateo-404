@@ -1,4 +1,4 @@
-### ¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻
+# ¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻
 
 ![Banner animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 

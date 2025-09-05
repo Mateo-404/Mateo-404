@@ -1,14 +1,22 @@
-### ¡Hola, soy Mateo Gariboglio! 🚀
+### ¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻
 
 ![Banner animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
-## 📌 Sobre mí
 
-Soy estudiante de la Tecnicatura Universitaria en Programación en la [UTN FRRa](http://ww8.frra.utn.edu.ar/sitio/). Me apasiona la tecnología y disfruto enfrentar desafíos, buscando siempre soluciones simples y efectivas. Trabajé en diversos proyectos, desde sitios web hasta sistemas backend robustos, y siempre estoy dispuesto a aprender algo nuevo y a seguir creciendo profesionalmente. Soy una persona creativa, comprometida y con muchas ganas de seguir aprendiendo y mejorando en mi campo. ¡Vamos para adelante! 💻🔥
+## 🎯 ¿Quién Soy?
+
+Soy **Técnico Universitario en Programación** graduado en [UTN FRRa](http://ww8.frra.utn.edu.ar/sitio/), apasionado por **resolver problemas con tecnología** y siempre buscando soluciones **eficientes y simples**.
+
+Trabajo en proyectos **full-stack**, desde **sitios web modernos** hasta **sistemas backend robustos**, combinando creatividad y buenas prácticas de desarrollo.  
+
+Además, soy fundador de **[Matecito](https://www.instagram.com/matecito.tech/)** 🧉, una iniciativa orientada a brindar **soluciones digitales accesibles a comercios pequeños**. Con este proyecto busco acercar la tecnología a emprendedores y empresas que necesitan herramientas prácticas para crecer.  
+
+> Me considero una persona **proactiva, curiosa y orientada a resultados**, lista para enfrentar desafíos y aprender continuamente. 💻🔥  
 
 ---
-## 🚀 Tech Stack
+
+## 🚀 Mi Stack Tecnológico
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -30,7 +38,7 @@ Soy estudiante de la Tecnicatura Universitaria en Programación en la [UTN FRRa]
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de Mi Github
 
 <table style="width: 100%;">
   <tr>
@@ -45,4 +53,14 @@ Soy estudiante de la Tecnicatura Universitaria en Programación en la [UTN FRRa]
 
 ---
 
-© 2025 Mateo Gariboglio
+## 🧉 Proyectos Destacados
+
+- [**Sistema de Barbería**](https://github.com/Mateo-404/Barberia) – Gestión completa de reservas y estadísticas, backend con Spring Boot + frontend moderno.  
+- [**Sitios web personalizados**](https://mateo-404.github.io/Jockey-Club-Rafaela/) – Experiencia full-stack con diseño responsivo y optimización SEO.  
+- [**Matecito**](https://www.instagram.com/matecito.tech/) – Iniciativa de soluciones digitales para comercios pequeños en Argentina .  
+
+> Siempre busco **resolver problemas reales** y **mejorar la experiencia del usuario** en cada proyecto.
+
+---
+
+© 2025 Mateo Gariboglio | [Portfolio](https://mateogariboglio.is-a.dev) | [Matecito en GitHub](https://github.com/matecito-tech)

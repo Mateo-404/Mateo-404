@@ -1,5 +1,4 @@
-# ¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻
----
+<h1 align="center">¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻</h1>
 
 ## 🎯 ¿Quién Soy?
 

@@ -11,8 +11,6 @@ Soy **Técnico Universitario en Programación** graduado en [UTN FRRa](http://ww
 
 Trabajo en proyectos **full-stack**, desde **sitios web modernos** hasta **sistemas backend robustos**, combinando creatividad y buenas prácticas de desarrollo.  
 
-Además, soy fundador de **[Matecito](https://www.instagram.com/matecito.tech/)** 🧉, una iniciativa orientada a brindar **soluciones digitales accesibles a comercios pequeños**. Con este proyecto busco acercar la tecnología a emprendedores y empresas que necesitan herramientas prácticas para crecer.  
-
 </td>
 <td width="40%" align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5aXVzdWpzYXp4cmY3azQzZXh6bjBlc2RoOW5xa2Q4OHdnaGxhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="300" alt="Coding Animation">
@@ -65,7 +63,6 @@ Además, soy fundador de **[Matecito](https://www.instagram.com/matecito.tech/)*
 
 - [**Sistema de Barbería**](https://github.com/Mateo-404/Barberia) – Gestión completa de reservas y estadísticas, backend con Spring Boot + frontend moderno.  
 - [**Sitios web personalizados**](https://mateo-404.github.io/Jockey-Club-Rafaela/) – Experiencia full-stack con diseño responsivo y optimización SEO.  
-- [**Matecito**](https://www.instagram.com/matecito.tech/) – Iniciativa de soluciones digitales para comercios pequeños en Argentina .  
 
 > Siempre busco **resolver problemas reales** y **mejorar la experiencia del usuario** en cada proyecto.
 

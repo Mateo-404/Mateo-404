@@ -1,3 +1,5 @@
+<img src="img/banner.webp" alt="Foto de perfil"><br>
+
 <h1 align="center">¡Hola, soy Mateo Gariboglio! 👋🏻🧑🏻‍💻</h1>
 
 ## 🎯 ¿Quién Soy?

@@ -1,4 +1,4 @@
-<img src="img/banner.webp" alt="Banner">
+<img src="./img/banner.webp" alt="Banner">
 <h2>¡Hola, soy Mateo Gariboglio! 🧑🏻‍💻</h1>
 
 

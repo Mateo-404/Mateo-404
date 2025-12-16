@@ -2,7 +2,7 @@
   <img src="./img/banner.webp" alt="Banner" width="100%">
   
   <p>
-    <b>Técnico Universitario en Programación (UTN)</b> | Estudiante de Ingeniería en Informática (UNL)
+    <b>University Technician in Programming (UTN)</b> | Computer Engineering Student (UNL)
   </p>
 
   <p>
@@ -20,19 +20,19 @@
 
 ---
 
-### 👨🏻‍💻 Sobre mí
+### 👨🏻‍💻 About Me
 
-No soy solo código; busco resolver problemas de negocio. Tengo una base sólida en **Programación Orientada a Objetos** y **Arquitectura en Capas**.
-Actualmente enfocado en el ecosistema **Java (Spring Boot, JPA)**, aunque me defiendo en el Frontend cuando es necesario.
+I’m not just about writing code; I focus on solving business problems. I have a solid foundation in **Object-Oriented Programming** and **Layered Architecture**.  
+Currently focused on the **Java ecosystem (Spring Boot, JPA)**, while also being capable on the frontend when needed.
 
-* 🔭 **Actualmente trabajando en:** Mejora de algoritmos y patrones de diseño.
-* 🎓 **Educación:** Formación continua en UTN y UNL.
-* 🤝 **Soft Skills:** Comunicación directa, pensamiento crítico y austeridad de recursos.
-* 🌍 **Disponibilidad:** Remoto, Híbrido o Presencial (Dispuesto a relocación).
+* 🔭 **Currently working on:** Improving algorithms and design patterns.
+* 🎓 **Education:** Ongoing education at UTN and UNL.
+* 🤝 **Soft Skills:** Direct communication, critical thinking, and efficient use of resources.
+* 🌍 **Availability:** Remote, Hybrid, or On-site (Open to relocation).
 
 ---
 
-### 🛠 Stack Tecnológico
+### 🛠 Tech Stack
 
 **Core & Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@ Actualmente enfocado en el ecosistema **Java (Spring Boot, JPA)**, aunque me def
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend & Herramientas**
+**Frontend & Tools**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)

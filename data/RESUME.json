@@ -1,0 +1,217 @@
+{
+  "basics": {
+    "name": "Mateo Gariboglio",
+    "email": "mateogariboglio.job@gmail.com",
+    "phone": "",
+    "location": {
+      "city": "Humboldt",
+      "region": "Santa Fe",
+      "country": "Argentina"
+    },
+    "url": "https://mateogariboglio.is-a.dev",
+    "summary": "Soy Mateo, desarrollador backend especializado en Java y Spring Boot. Tengo experiencia en APIs REST, microservicios con Spring Cloud, bases de datos relacionales y despliegue de aplicaciones. Participé en proyectos reales (Winkelmann S.R.L.) y obtuve el 2° puesto en el Hackathon UNRaf 2025. Formación sólida en programación y actualmente ampliando conocimientos hacia arquitecturas distribuidas y cloud. Busco oportunidades para aportar soluciones backend robustas y escalables.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Mateo-404",
+        "url": "https://github.com/Mateo-404"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Mateo Gariboglio",
+        "url": "https://www.linkedin.com/in/mateo-gariboglio"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "company": "Winkelmann S.R.L",
+      "position": "Desarrollador de software",
+      "location": "Híbrido",
+      "startDate": "2025-02",
+      "endDate": "2025-04",
+      "summary": "Como desarrollador independiente para Winkelmann S.R.L., analicé requerimientos y diseñé un sistema de gestión interna. Implementé backend en Spring Boot, integración con PostgreSQL y endpoints REST. Coordiné con el cliente, propuse soluciones alternativas por restricciones de tiempo y entregué funcionalidades reales aplicadas al negocio.",
+      "url": "https://www.wkmsrl.com/"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional FRRa",
+      "area": "Programación",
+      "studyType": "Tecnicatura",
+      "startDate": "2023-03",
+      "endDate": "2025-09",
+      "summary": "Formación orientada al desarrollo backend, metodologías ágiles, análisis y aplicaciones reales en Java, C#, UML y MySQL.",
+      "url": "http://ww8.frra.utn.edu.ar/sitio/"
+    },
+    {
+      "institution": "Universidad Nacional del Litoral (UNL)",
+      "area": "Ingeniería en Informática",
+      "studyType": "Grado (Ingreso)",
+      "startDate": "2026-02",
+      "endDate": null,
+      "summary": "Inicio de la carrera de Ingeniería en Informática en febrero 2026. Enfoque en programación avanzada, redes, algoritmos, sistemas operativos y diseño de software.",
+      "url": "https://www.unl.edu.ar"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Concesionaria",
+      "description": "Sistema de gestión vehicular en Java. CRUD con JPA, arquitectura MVC, Swing y catálogo en base de datos.",
+      "url": "https://github.com/Mateo-404/Consecionaria_JPA",
+      "keywords": [
+        "Java", "JPA", "CRUD", "MVC", "Arquitectura en capas",
+        "Persistencia", "Java Swing", "POO"
+      ],
+      "startDate": "2024-04",
+      "endDate": "2024-07"
+    },
+    {
+      "name": "Jockey Club Rafaela",
+      "description": "Sitio web en HTML, CSS, JavaScript y Bootstrap con secciones de noticias, fotos, contacto y formulario.",
+      "url": "https://mateo-404.github.io/Jockey-Club-Rafaela/",
+      "keywords": [
+        "HTML5", "CSS", "JavaScript", "Bootstrap",
+        "Frontend", "Responsive Design"
+      ],
+      "startDate": "2024-04",
+      "endDate": "2024-07"
+    },
+    {
+      "name": "Hackathon UNRaf 2025 - Del problema a la propuesta (2° puesto)",
+      "description": "Hackathon en inglés organizado junto a University of Education Karlsruhe. Desarrollamos una app para mejorar la comunicación interna en Rafaela Alimentos: login, portal de noticias, formularios dinámicos, gamificación y foros colaborativos. Metodología: Design Thinking.",
+      "url": "",
+      "keywords": [
+        "Hackathon", "Design Thinking", "Trabajo en equipo",
+        "Prototipado", "App Móvil", "Inglés"
+      ],
+      "startDate": "2025-10",
+      "endDate": "2025-10"
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Foundational C# with Microsoft",
+      "date": "Agosto 2024",
+      "issuer": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/Mateo-404/foundational-c-sharp-with-microsoft"
+    },
+    {
+      "name": "Curso de Introducción a las Habilidades Blandas",
+      "date": "Julio 2024",
+      "issuer": "Universidad Blas Pascal",
+      "url": ""
+    },
+    {
+      "name": "Desarrollo de APIs en Java con SpringBoot",
+      "date": "Enero 2024",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/t4y-2/"
+    },
+    {
+      "name": "Introducción a Git y GitHub",
+      "date": "Diciembre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/32s/"
+    },
+    {
+      "name": "Introducción a las Bases de Datos Relacionales",
+      "date": "Noviembre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/eav/"
+    },
+    {
+      "name": "HTML y CSS desde CERO",
+      "date": "Octubre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/certificado-html-y-css-3iq"
+    },
+    {
+      "name": "Java para principiantes",
+      "date": "Octubre 2023",
+      "issuer": "TodoCode Academy",
+      "url": "https://todocodeacademy.com/certificate/0yn/"
+    },
+    {
+      "name": "Microsoft Office intermedio",
+      "date": "Febrero 2023",
+      "issuer": "Fundación Telefónica Movistar Argentina",
+      "url": ""
+    },
+    {
+      "name": "Primeros pasos del desarrollo frontend",
+      "date": "Febrero 2023",
+      "issuer": "Ticmas",
+      "url": ""
+    },
+    {
+      "name": "Microservicios con Spring Cloud",
+      "date": "Noviembre 2025",
+      "issuer": "TodoCode",
+      "url": "",
+      "summary": "Diseño e implementación de microservicios con Docker, Eureka, Spring Cloud Gateway, Resilience4j, Feign, Config Server y Load Balancer."
+    },
+    {
+      "name": "Hackathon UNRaf 2025 – Desarrollo Emprendedor (2° puesto)",
+      "date": "Octubre 2025",
+      "issuer": "UNRaf - Universidad Nacional de Rafaela",
+      "url": "",
+      "summary": "Evento en inglés con mentores alemanes. Aplicación de Design Thinking. Competencias: trabajo en equipo, liderazgo, emprendimiento."
+    },
+    {
+      "name": "Auxiliar en Instalaciones Eléctricas Domiciliarias",
+      "date": "Diciembre 2025",
+      "issuer": "Centro de Capacitación Laboral N°74 (Extensión Áurica) / EETP N°681 Mercedes Álvarez de Segura",
+      "summary": "Curso de Auxiliar en Instalaciones Eléctricas Domiciliarias, dictado por el docente Jorge Márquez en la EETP N°681 (Humboldt). Formación práctica en instalaciones eléctricas domiciliarias. Avalado por la Provincia de Santa Fe a través del Centro de Capacitación Laboral N°74.",
+      "url": ""
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Lenguajes de programación",
+      "keywords": ["Java", "JavaScript", "HTML", "CSS", "C#"]
+    },
+    {
+      "name": "Frameworks y librerías",
+      "keywords": [
+        "Spring Boot", "Spring Cloud", "Spring Cloud Gateway",
+        "Eureka", "Resilience4j", "Feign", "Docker",
+        "Docker Compose", "Astro", "React", "Bootstrap"
+      ]
+    },
+    {
+      "name": "Bases de datos",
+      "keywords": ["PostgreSQL", "MySQL", "Microsoft Access", "SQL"]
+    },
+    {
+      "name": "Herramientas y tecnologías",
+      "keywords": ["Git", "GitHub", "GitFlow", "Maven", "Office"]
+    },
+    {
+      "name": "Arquitectura y patrones",
+      "keywords": [
+        "MVC", "Arquitectura en capas", "POO",
+        "IoC", "DI", "Microservicios",
+        "Circuit Breaker", "Service Registry", "API Gateway"
+      ]
+    },
+    {
+      "name": "Otras habilidades",
+      "keywords": [
+        "Análisis de requerimientos", "Scrum",
+        "Gestión de proyectos", "Trabajo en equipo",
+        "Comunicación con clientes", "Resolución de problemas"
+      ]
+    }
+  ],
+
+  "languages": [
+    { "language": "Español", "fluency": "Nativo" },
+    { "language": "Inglés", "fluency": "Intermedio" }
+  ]
+}
